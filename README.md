@@ -1,6 +1,6 @@
-#Riječ po riječ - igra riječima
+##Riječ po riječ - igra riječima
 
-##Politika privatnosti
+Politika privatnosti
 
 Riječ po riječ je igra riječima za Android koju je izradio Borna Runac. Sav kod je vlasništvo Borne Runca i nije dopušteno neovlašteno reproduciranje ili dekompajliranje koda.
 
