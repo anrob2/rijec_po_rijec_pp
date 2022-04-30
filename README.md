@@ -13,5 +13,7 @@ Ako pronađete ikakvu grešku ili ranjivost u aplikaciji, molim vas da me obavij
 Hvala i uživajte u igranju!
 
 Borna Runac
+
 Zagreb, Hrvatska
+
 igra.rijecporijec@gmail.com
